@@ -22,7 +22,7 @@ const UserList = () => {
   const styles = useStyles();
 
   return (
-    <Container className="list">
+    <Container className="list animate__animated animate__fadeIn">
       <TableContainer>
         <Table>
           <TableHead>
